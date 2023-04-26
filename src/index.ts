@@ -1,7 +1,7 @@
 import fs from 'fs';
 import { SkeletonPart, SkeletonMapping } from './skeleton-mapping';
 import targetSkeletonRoot from './skeleton/hana.json';
-import standardSkeletonRoot from './skeleton/cjie.json';
+import standardSkeletonRoot from './skeleton/standard.json';
 
 (async function main() {
     const standardSkeletonPart = new SkeletonPart(standardSkeletonRoot);
