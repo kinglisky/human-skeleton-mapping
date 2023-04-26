@@ -1,0 +1,702 @@
+{
+    "name": "root",
+    "path": "standard-avatar-skeleton-root-node/root",
+    "pos": {
+        "x": 1.4999999999998377e-7,
+        "y": 0.9683000000000002,
+        "z": 0.0015000000000000002
+    },
+    "children": [
+        {
+            "name": "hips",
+            "path": "standard-avatar-skeleton-root-node/root/hips",
+            "pos": {
+                "x": 1.5968396839689995e-7,
+                "y": 0.9683968396839683,
+                "z": 0.0015968396839683967
+            },
+            "children": [
+                {
+                    "name": "left_upper_leg",
+                    "path": "standard-avatar-skeleton-root-node/root/hips/left_upper_leg",
+                    "pos": {
+                        "x": 0.07773721680837085,
+                        "y": 0.9681687258958138,
+                        "z": 0.001456598895666229
+                    },
+                    "children": [
+                        {
+                            "name": "left_lower_leg",
+                            "path": "standard-avatar-skeleton-root-node/root/hips/left_upper_leg/left_lower_leg",
+                            "pos": {
+                                "x": 0.08664240641244052,
+                                "y": 0.501230358891787,
+                                "z": -0.00015129936263619118
+                            },
+                            "children": [
+                                {
+                                    "name": "left_foot",
+                                    "path": "standard-avatar-skeleton-root-node/root/hips/left_upper_leg/left_lower_leg/left_foot",
+                                    "pos": {
+                                        "x": 0.09467938604667585,
+                                        "y": 0.05985073052361739,
+                                        "z": -0.04336776853533382
+                                    },
+                                    "children": [
+                                        {
+                                            "name": "left_toes",
+                                            "path": "standard-avatar-skeleton-root-node/root/hips/left_upper_leg/left_lower_leg/left_foot/left_toes",
+                                            "pos": {
+                                                "x": 0.09502383924520967,
+                                                "y": 0.006600660066006611,
+                                                "z": 0.0799425875748775
+                                            },
+                                            "children": [
+                                                {
+                                                    "name": "left_foot_tip",
+                                                    "path": "standard-avatar-skeleton-root-node/root/hips/left_upper_leg/left_lower_leg/left_foot/left_toes/left_foot_tip",
+                                                    "pos": {
+                                                        "x": 0.09533083304112698,
+                                                        "y": 0.006600660066006598,
+                                                        "z": 0.14504823855734716
+                                                    },
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "right_upper_leg",
+                    "path": "standard-avatar-skeleton-root-node/root/hips/right_upper_leg",
+                    "pos": {
+                        "x": -0.07793390750208733,
+                        "y": 0.9681802912529025,
+                        "z": 0.001446974146529193
+                    },
+                    "children": [
+                        {
+                            "name": "right_lower_leg",
+                            "path": "standard-avatar-skeleton-root-node/root/hips/right_upper_leg/right_lower_leg",
+                            "pos": {
+                                "x": -0.08679222252047544,
+                                "y": 0.5012426932482822,
+                                "z": -0.00016050024329079403
+                            },
+                            "children": [
+                                {
+                                    "name": "right_foot",
+                                    "path": "standard-avatar-skeleton-root-node/root/hips/right_upper_leg/right_lower_leg/right_foot",
+                                    "pos": {
+                                        "x": -0.09478020812620888,
+                                        "y": 0.059904337320949075,
+                                        "z": -0.04337320949078296
+                                    },
+                                    "children": [
+                                        {
+                                            "name": "right_toes",
+                                            "path": "standard-avatar-skeleton-root-node/root/hips/right_upper_leg/right_lower_leg/right_foot/right_toes",
+                                            "pos": {
+                                                "x": -0.0951324641424984,
+                                                "y": 0.006591145868172596,
+                                                "z": 0.07993276824539808
+                                            },
+                                            "children": [
+                                                {
+                                                    "name": "right_foot_tip",
+                                                    "path": "standard-avatar-skeleton-root-node/root/hips/right_upper_leg/right_lower_leg/right_foot/right_toes/right_foot_tip",
+                                                    "pos": {
+                                                        "x": -0.09532127143346472,
+                                                        "y": 0.00659112698555521,
+                                                        "z": 0.1450387312986714
+                                                    },
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "spine",
+                    "path": "standard-avatar-skeleton-root-node/root/hips/spine",
+                    "pos": {
+                        "x": 0.00010731580624343104,
+                        "y": 1.07315806243431,
+                        "z": 0.0009499689585858764
+                    },
+                    "children": [
+                        {
+                            "name": "chest",
+                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest",
+                            "pos": {
+                                "x": 0.00011550306426810932,
+                                "y": 1.1550306426810926,
+                                "z": 0.012937035598272676
+                            },
+                            "children": [
+                                {
+                                    "name": "upper_chest",
+                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest",
+                                    "pos": {
+                                        "x": 0.00012319333903103188,
+                                        "y": 1.2319333903103198,
+                                        "z": 0.012172456947662634
+                                    },
+                                    "children": [
+                                        {
+                                            "name": "left_shoulder",
+                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder",
+                                            "pos": {
+                                                "x": 0.03377853664974182,
+                                                "y": 1.4676147149834844,
+                                                "z": -0.03519801534897162
+                                            },
+                                            "children": [
+                                                {
+                                                    "name": "left_upper_arm",
+                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm",
+                                                    "pos": {
+                                                        "x": 0.13874068939052794,
+                                                        "y": 1.4669293267674763,
+                                                        "z": -0.051384112797064986
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "name": "left_lower_arm",
+                                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm/left_lower_arm",
+                                                            "pos": {
+                                                                "x": 0.39181601813869127,
+                                                                "y": 1.4641584061994748,
+                                                                "z": -0.07192673091393856
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "name": "left_hand",
+                                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm/left_lower_arm/left_hand",
+                                                                    "pos": {
+                                                                        "x": 0.6589848001065055,
+                                                                        "y": 1.4734088142198145,
+                                                                        "z": -0.03484287918265042
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "left_index_proximal",
+                                                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm/left_lower_arm/left_hand/left_index_proximal",
+                                                                            "pos": {
+                                                                                "x": 0.7298839083665112,
+                                                                                "y": 1.470183871266315,
+                                                                                "z": -0.008453721269111477
+                                                                            },
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "left_index_intermediate",
+                                                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm/left_lower_arm/left_hand/left_index_proximal/left_index_intermediate",
+                                                                                    "pos": {
+                                                                                        "x": 0.767787970483199,
+                                                                                        "y": 1.466145683775415,
+                                                                                        "z": -0.005788388789181813
+                                                                                    },
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "left_index_distal",
+                                                                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm/left_lower_arm/left_hand/left_index_proximal/left_index_intermediate/left_index_distal",
+                                                                                            "pos": {
+                                                                                                "x": 0.7879030468745783,
+                                                                                                "y": 1.4639038477317856,
+                                                                                                "z": -0.004366582184060667
+                                                                                            },
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "left_index_tip",
+                                                                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm/left_lower_arm/left_hand/left_index_proximal/left_index_intermediate/left_index_distal/left_index_tip",
+                                                                                                    "pos": {
+                                                                                                        "x": 0.8098664862140507,
+                                                                                                        "y": 1.460404781006488,
+                                                                                                        "z": -0.002735870482909589
+                                                                                                    },
+                                                                                                    "children": []
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "left_middle_proximal",
+                                                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm/left_lower_arm/left_hand/left_middle_proximal",
+                                                                            "pos": {
+                                                                                "x": 0.7331939299442766,
+                                                                                "y": 1.4729457043842993,
+                                                                                "z": -0.02783448637606441
+                                                                            },
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "left_middle_intermediate",
+                                                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm/left_lower_arm/left_hand/left_middle_proximal/left_middle_intermediate",
+                                                                                    "pos": {
+                                                                                        "x": 0.775452835060678,
+                                                                                        "y": 1.4696915910332016,
+                                                                                        "z": -0.027094972083741682
+                                                                                    },
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "left_middle_distal",
+                                                                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm/left_lower_arm/left_hand/left_middle_proximal/left_middle_intermediate/left_middle_distal",
+                                                                                            "pos": {
+                                                                                                "x": 0.7996370976506156,
+                                                                                                "y": 1.4655674995909305,
+                                                                                                "z": -0.026449940407288798
+                                                                                            },
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "left_middle_tip",
+                                                                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm/left_lower_arm/left_hand/left_middle_proximal/left_middle_intermediate/left_middle_distal/left_middle_tip",
+                                                                                                    "pos": {
+                                                                                                        "x": 0.8216542395030322,
+                                                                                                        "y": 1.4614891089328605,
+                                                                                                        "z": -0.025830948614114852
+                                                                                                    },
+                                                                                                    "children": []
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "left_pinky_proximal",
+                                                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm/left_lower_arm/left_hand/left_pinky_proximal",
+                                                                            "pos": {
+                                                                                "x": 0.7218826326008144,
+                                                                                "y": 1.4665672905119875,
+                                                                                "z": -0.06485454417395368
+                                                                            },
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "left_pinky_intermediate",
+                                                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm/left_lower_arm/left_hand/left_pinky_proximal/left_pinky_intermediate",
+                                                                                    "pos": {
+                                                                                        "x": 0.7487527778900622,
+                                                                                        "y": 1.4648772270499113,
+                                                                                        "z": -0.06757005254282665
+                                                                                    },
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "left_pinky_distal",
+                                                                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm/left_lower_arm/left_hand/left_pinky_proximal/left_pinky_intermediate/left_pinky_distal",
+                                                                                            "pos": {
+                                                                                                "x": 0.7649831284228048,
+                                                                                                "y": 1.4635727502208777,
+                                                                                                "z": -0.06918504235697295
+                                                                                            },
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "left_pinky_tip",
+                                                                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm/left_lower_arm/left_hand/left_pinky_proximal/left_pinky_intermediate/left_pinky_distal/left_pinky_tip",
+                                                                                                    "pos": {
+                                                                                                        "x": 0.7826413602047869,
+                                                                                                        "y": 1.4621666896478345,
+                                                                                                        "z": -0.07094335318877336
+                                                                                                    },
+                                                                                                    "children": []
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "left_ring_proximal",
+                                                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm/left_lower_arm/left_hand/left_ring_proximal",
+                                                                            "pos": {
+                                                                                "x": 0.7285992666936087,
+                                                                                "y": 1.472338791255395,
+                                                                                "z": -0.046698635210932864
+                                                                            },
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "left_ring_intermediate",
+                                                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm/left_lower_arm/left_hand/left_ring_proximal/left_ring_intermediate",
+                                                                                    "pos": {
+                                                                                        "x": 0.7670901642038265,
+                                                                                        "y": 1.4684201545999194,
+                                                                                        "z": -0.04883604227649687
+                                                                                    },
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "left_ring_distal",
+                                                                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm/left_lower_arm/left_hand/left_ring_proximal/left_ring_intermediate/left_ring_distal",
+                                                                                            "pos": {
+                                                                                                "x": 0.7883944006993963,
+                                                                                                "y": 1.4662796061366978,
+                                                                                                "z": -0.05002189326475981
+                                                                                            },
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "left_ring_tip",
+                                                                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm/left_lower_arm/left_hand/left_ring_proximal/left_ring_intermediate/left_ring_distal/left_ring_tip",
+                                                                                                    "pos": {
+                                                                                                        "x": 0.8113672047328295,
+                                                                                                        "y": 1.4642283550141055,
+                                                                                                        "z": -0.051326186529681836
+                                                                                                    },
+                                                                                                    "children": []
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "left_thumb_proximal",
+                                                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm/left_lower_arm/left_hand/left_thumb_proximal",
+                                                                            "pos": {
+                                                                                "x": 0.6681151013374941,
+                                                                                "y": 1.4648295665473783,
+                                                                                "z": -0.011183059648892213
+                                                                            },
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "left_thumb_intermediate",
+                                                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm/left_lower_arm/left_hand/left_thumb_proximal/left_thumb_intermediate",
+                                                                                    "pos": {
+                                                                                        "x": 0.693476816075695,
+                                                                                        "y": 1.455135772659817,
+                                                                                        "z": 0.008373608631064504
+                                                                                    },
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "left_thumb_distal",
+                                                                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm/left_lower_arm/left_hand/left_thumb_proximal/left_thumb_intermediate/left_thumb_distal",
+                                                                                            "pos": {
+                                                                                                "x": 0.7159596119228033,
+                                                                                                "y": 1.4452071813310883,
+                                                                                                "z": 0.02179778438734447
+                                                                                            },
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "left_thumb_tip",
+                                                                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/left_shoulder/left_upper_arm/left_lower_arm/left_hand/left_thumb_proximal/left_thumb_intermediate/left_thumb_distal/left_thumb_tip",
+                                                                                                    "pos": {
+                                                                                                        "x": 0.7361183760735156,
+                                                                                                        "y": 1.4363896458514571,
+                                                                                                        "z": 0.03408264005498432
+                                                                                                    },
+                                                                                                    "children": []
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "neck",
+                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/neck",
+                                            "pos": {
+                                                "x": 0.0001542004228593487,
+                                                "y": 1.5420042285934872,
+                                                "z": -0.03953217005007307
+                                            },
+                                            "children": [
+                                                {
+                                                    "name": "head",
+                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/neck/head",
+                                                    "pos": {
+                                                        "x": 0.00016239696555208342,
+                                                        "y": 1.623969655520834,
+                                                        "z": -0.02846067658681658
+                                                    },
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "right_shoulder",
+                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder",
+                                            "pos": {
+                                                "x": -0.03378217825336831,
+                                                "y": 1.4673736093501948,
+                                                "z": -0.035165897690321045
+                                            },
+                                            "children": [
+                                                {
+                                                    "name": "right_upper_arm",
+                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm",
+                                                    "pos": {
+                                                        "x": -0.13872948089481385,
+                                                        "y": 1.4666961191237655,
+                                                        "z": -0.05131915786067197
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "name": "right_lower_arm",
+                                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm/right_lower_arm",
+                                                            "pos": {
+                                                                "x": -0.3917731405868139,
+                                                                "y": 1.4639310862498487,
+                                                                "z": -0.07184437084852104
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "name": "right_hand",
+                                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm/right_lower_arm/right_hand",
+                                                                    "pos": {
+                                                                        "x": -0.6589144968950953,
+                                                                        "y": 1.4734953470756476,
+                                                                        "z": -0.03460681970933946
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "right_index_proximal",
+                                                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm/right_lower_arm/right_hand/right_index_proximal",
+                                                                            "pos": {
+                                                                                "x": -0.7298053424781042,
+                                                                                "y": 1.4702822819335213,
+                                                                                "z": -0.008218604536511912
+                                                                            },
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "right_index_intermediate",
+                                                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm/right_lower_arm/right_hand/right_index_proximal/right_index_intermediate",
+                                                                                    "pos": {
+                                                                                        "x": -0.76770488310822,
+                                                                                        "y": 1.4662480551811872,
+                                                                                        "z": -0.005553986579310156
+                                                                                    },
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "right_index_distal",
+                                                                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm/right_lower_arm/right_hand/right_index_proximal/right_index_intermediate/right_index_distal",
+                                                                                            "pos": {
+                                                                                                "x": -0.78782291383445,
+                                                                                                "y": 1.46401200618472,
+                                                                                                "z": -0.004132508297548365
+                                                                                            },
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "right_index_tip",
+                                                                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm/right_lower_arm/right_hand/right_index_proximal/right_index_intermediate/right_index_distal/right_index_tip",
+                                                                                                    "pos": {
+                                                                                                        "x": -0.8097947863859605,
+                                                                                                        "y": 1.4605032294241063,
+                                                                                                        "z": -0.002666318652922985
+                                                                                                    },
+                                                                                                    "children": []
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "right_middle_proximal",
+                                                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm/right_lower_arm/right_hand/right_middle_proximal",
+                                                                            "pos": {
+                                                                                "x": -0.7331240318604892,
+                                                                                "y": 1.4730478259407542,
+                                                                                "z": -0.027599472529197772
+                                                                            },
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "right_middle_intermediate",
+                                                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm/right_lower_arm/right_hand/right_middle_proximal/right_middle_intermediate",
+                                                                                    "pos": {
+                                                                                        "x": -0.7753870253991992,
+                                                                                        "y": 1.4698043982482456,
+                                                                                        "z": -0.026861217242238843
+                                                                                    },
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "right_middle_distal",
+                                                                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm/right_lower_arm/right_hand/right_middle_proximal/right_middle_intermediate/right_middle_distal",
+                                                                                            "pos": {
+                                                                                                "x": -0.7995707936296337,
+                                                                                                "y": 1.4656840846962609,
+                                                                                                "z": -0.026216910261232098
+                                                                                            },
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "right_middle_tip",
+                                                                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm/right_lower_arm/right_hand/right_middle_proximal/right_middle_intermediate/right_middle_distal/right_middle_tip",
+                                                                                                    "pos": {
+                                                                                                        "x": -0.8215877744996946,
+                                                                                                        "y": 1.4615924651777161,
+                                                                                                        "z": -0.02575919097301866
+                                                                                                    },
+                                                                                                    "children": []
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "right_pinky_proximal",
+                                                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm/right_lower_arm/right_hand/right_pinky_proximal",
+                                                                            "pos": {
+                                                                                "x": -0.7218338451158964,
+                                                                                "y": 1.4666665060172421,
+                                                                                "z": -0.06461363702645745
+                                                                            },
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "right_pinky_intermediate",
+                                                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm/right_lower_arm/right_hand/right_pinky_proximal/right_pinky_intermediate",
+                                                                                    "pos": {
+                                                                                        "x": -0.7487084925474369,
+                                                                                        "y": 1.464979253328764,
+                                                                                        "z": -0.06733272926046688
+                                                                                    },
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "right_pinky_distal",
+                                                                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm/right_lower_arm/right_hand/right_pinky_proximal/right_pinky_intermediate/right_pinky_distal",
+                                                                                            "pos": {
+                                                                                                "x": -0.764937912865453,
+                                                                                                "y": 1.4636770167188615,
+                                                                                                "z": -0.0689481250836085
+                                                                                            },
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "right_pinky_tip",
+                                                                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm/right_lower_arm/right_hand/right_pinky_proximal/right_pinky_intermediate/right_pinky_distal/right_pinky_tip",
+                                                                                                    "pos": {
+                                                                                                        "x": -0.7825774230496361,
+                                                                                                        "y": 1.4622578267443385,
+                                                                                                        "z": -0.07086603894295826
+                                                                                                    },
+                                                                                                    "children": []
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "right_ring_proximal",
+                                                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm/right_lower_arm/right_hand/right_ring_proximal",
+                                                                            "pos": {
+                                                                                "x": -0.7285495050755566,
+                                                                                "y": 1.4724421176393698,
+                                                                                "z": -0.04646134025776222
+                                                                            },
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "right_ring_intermediate",
+                                                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm/right_lower_arm/right_hand/right_ring_proximal/right_ring_intermediate",
+                                                                                    "pos": {
+                                                                                        "x": -0.7670411742987595,
+                                                                                        "y": 1.4685275793889505,
+                                                                                        "z": -0.048599815338874565
+                                                                                    },
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "right_ring_distal",
+                                                                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm/right_lower_arm/right_hand/right_ring_proximal/right_ring_intermediate/right_ring_distal",
+                                                                                            "pos": {
+                                                                                                "x": -0.7883382767987545,
+                                                                                                "y": 1.4663886002025415,
+                                                                                                "z": -0.049785688878305576
+                                                                                            },
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "right_ring_tip",
+                                                                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm/right_lower_arm/right_hand/right_ring_proximal/right_ring_intermediate/right_ring_distal/right_ring_tip",
+                                                                                                    "pos": {
+                                                                                                        "x": -0.8112985148548697,
+                                                                                                        "y": 1.4643239767013436,
+                                                                                                        "z": -0.05124948863559396
+                                                                                                    },
+                                                                                                    "children": []
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "right_thumb_proximal",
+                                                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm/right_lower_arm/right_hand/right_thumb_proximal",
+                                                                            "pos": {
+                                                                                "x": -0.6679112596098475,
+                                                                                "y": 1.4646841509121296,
+                                                                                "z": -0.01110117041721044
+                                                                            },
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "right_thumb_intermediate",
+                                                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm/right_lower_arm/right_hand/right_thumb_proximal/right_thumb_intermediate",
+                                                                                    "pos": {
+                                                                                        "x": -0.6932726565366778,
+                                                                                        "y": 1.4549940361051787,
+                                                                                        "z": 0.008466031031103619
+                                                                                    },
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "right_thumb_distal",
+                                                                                            "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm/right_lower_arm/right_hand/right_thumb_proximal/right_thumb_intermediate/right_thumb_distal",
+                                                                                            "pos": {
+                                                                                                "x": -0.7157524566627129,
+                                                                                                "y": 1.4450669355062122,
+                                                                                                "z": 0.02189017866052167
+                                                                                            },
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "right_thumb_tip",
+                                                                                                    "path": "standard-avatar-skeleton-root-node/root/hips/spine/chest/upper_chest/right_shoulder/right_upper_arm/right_lower_arm/right_hand/right_thumb_proximal/right_thumb_intermediate/right_thumb_distal/right_thumb_tip",
+                                                                                                    "pos": {
+                                                                                                        "x": -0.735999247652417,
+                                                                                                        "y": 1.4363908798281138,
+                                                                                                        "z": 0.03412802013929511
+                                                                                                    },
+                                                                                                    "children": []
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

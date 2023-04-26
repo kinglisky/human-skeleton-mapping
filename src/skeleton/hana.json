@@ -1,0 +1,1137 @@
+{
+    "name": "hana",
+    "path": "scene_root/SceneNode-1/hana",
+    "pos": { "x": 0, "y": 0, "z": 0 },
+    "children": [
+        {
+            "name": "Armature",
+            "path": "scene_root/SceneNode-1/hana/Armature",
+            "pos": { "x": 0, "y": 0, "z": 0 },
+            "children": [
+                {
+                    "name": "Hips",
+                    "path": "scene_root/SceneNode-1/hana/Armature/Hips",
+                    "pos": {
+                        "x": 0,
+                        "y": 1.0363331089993273,
+                        "z": 0.000019000133000931006
+                    },
+                    "children": [
+                        {
+                            "name": "Spine",
+                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine",
+                            "pos": {
+                                "x": 0.000020101741949883916,
+                                "y": 1.1013600167868678,
+                                "z": 0.01682251258754294
+                            },
+                            "children": [
+                                {
+                                    "name": "Chest",
+                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest",
+                                    "pos": {
+                                        "x": 0.000020020441293419902,
+                                        "y": 1.2207777326286595,
+                                        "z": 0.020040884594029886
+                                    },
+                                    "children": [
+                                        {
+                                            "name": "Breast_L",
+                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Breast_L",
+                                            "pos": {
+                                                "x": 0.055448658851062795,
+                                                "y": 1.3268353734732738,
+                                                "z": 0.07746878966775118
+                                            },
+                                            "children": [
+                                                {
+                                                    "name": "J_Sec_L_Bust2",
+                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Breast_L/J_Sec_L_Bust2",
+                                                    "pos": {
+                                                        "x": 0.06695676976713069,
+                                                        "y": 1.3296556980913445,
+                                                        "z": 0.10038749584592693
+                                                    },
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Breast_R",
+                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Breast_R",
+                                            "pos": {
+                                                "x": -0.055487356180384216,
+                                                "y": 1.32685495255967,
+                                                "z": 0.07745176927112121
+                                            },
+                                            "children": [
+                                                {
+                                                    "name": "J_Sec_R_Bust2",
+                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Breast_R/J_Sec_R_Bust2",
+                                                    "pos": {
+                                                        "x": -0.06699418861323393,
+                                                        "y": 1.3296755934140185,
+                                                        "z": 0.10036639617147226
+                                                    },
+                                                    "children": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Neck",
+                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck",
+                                            "pos": {
+                                                "x": 0.000020474707781118756,
+                                                "y": 1.474298286963124,
+                                                "z": -0.035953768460658744
+                                            },
+                                            "children": [
+                                                {
+                                                    "name": "Head",
+                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head",
+                                                    "pos": {
+                                                        "x": 0.000018974888553542324,
+                                                        "y": 1.5552910960312232,
+                                                        "z": -0.025470459066158954
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "name": "Eye_L",
+                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/Eye_L",
+                                                            "pos": {
+                                                                "x": 0.017971541354364604,
+                                                                "y": 1.6203225978865845,
+                                                                "z": -0.0032125005139048493
+                                                            },
+                                                            "children": []
+                                                        },
+                                                        {
+                                                            "name": "Eye_R",
+                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/Eye_R",
+                                                            "pos": {
+                                                                "x": -0.01802388279165138,
+                                                                "y": 1.6203302380211453,
+                                                                "z": -0.003212860417184691
+                                                            },
+                                                            "children": []
+                                                        },
+                                                        {
+                                                            "name": "J_Sec_Hair1_01",
+                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_01",
+                                                            "pos": {
+                                                                "x": -0.08754103676956936,
+                                                                "y": 1.6344351314777432,
+                                                                "z": 0.03412784719772919
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "name": "J_Sec_Hair2_01",
+                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_01/J_Sec_Hair2_01",
+                                                                    "pos": {
+                                                                        "x": -0.08580631622822026,
+                                                                        "y": 1.6009533797675672,
+                                                                        "z": 0.03465552265652335
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "J_Sec_Hair3_01",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_01/J_Sec_Hair2_01/J_Sec_Hair3_01",
+                                                                            "pos": {
+                                                                                "x": -0.07507589810246704,
+                                                                                "y": 1.5695241862676452,
+                                                                                "z": 0.03548442563259859
+                                                                            },
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "J_Sec_Hair1_02",
+                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_02",
+                                                            "pos": {
+                                                                "x": 0.08762467115092673,
+                                                                "y": 1.621157654207183,
+                                                                "z": 0.03391600538337585
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "name": "J_Sec_Hair2_02",
+                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_02/J_Sec_Hair2_02",
+                                                                    "pos": {
+                                                                        "x": 0.0846094031784697,
+                                                                        "y": 1.5928512387973648,
+                                                                        "z": 0.034887494779653944
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "J_Sec_Hair3_02",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_02/J_Sec_Hair2_02/J_Sec_Hair3_02",
+                                                                            "pos": {
+                                                                                "x": 0.07230220769168798,
+                                                                                "y": 1.5677279348218967,
+                                                                                "z": 0.03812102321037338
+                                                                            },
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "J_Sec_Hair1_03",
+                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_03",
+                                                            "pos": {
+                                                                "x": 0.0025268922996846297,
+                                                                "y": 1.6973991226152552,
+                                                                "z": 0.08644460338247988
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "name": "J_Sec_Hair2_03",
+                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_03/J_Sec_Hair2_03",
+                                                                    "pos": {
+                                                                        "x": 0.0021596769041572787,
+                                                                        "y": 1.6573562710249186,
+                                                                        "z": 0.08958094261625862
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "J_Sec_Hair3_03",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_03/J_Sec_Hair2_03/J_Sec_Hair3_03",
+                                                                            "pos": {
+                                                                                "x": -0.0013365897014999918,
+                                                                                "y": 1.6179576503175506,
+                                                                                "z": 0.08318674068692897
+                                                                            },
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "J_Sec_Hair1_04",
+                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_04",
+                                                            "pos": {
+                                                                "x": -0.080263189206402,
+                                                                "y": 1.6702892329454626,
+                                                                "z": 0.05073829968223277
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "name": "J_Sec_Hair2_04",
+                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_04/J_Sec_Hair2_04",
+                                                                    "pos": {
+                                                                        "x": -0.08138382839588974,
+                                                                        "y": 1.629832115633934,
+                                                                        "z": 0.049194504093781066
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "J_Sec_Hair3_04",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_04/J_Sec_Hair2_04/J_Sec_Hair3_04",
+                                                                            "pos": {
+                                                                                "x": -0.06895974157712828,
+                                                                                "y": 1.5914711188535282,
+                                                                                "z": 0.04798234774989129
+                                                                            },
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "J_Sec_Hair1_05",
+                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_05",
+                                                            "pos": {
+                                                                "x": 0.08113620210576711,
+                                                                "y": 1.662477775731896,
+                                                                "z": 0.05076903867826997
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "name": "J_Sec_Hair2_05",
+                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_05/J_Sec_Hair2_05",
+                                                                    "pos": {
+                                                                        "x": 0.08038540591462272,
+                                                                        "y": 1.6255594286793655,
+                                                                        "z": 0.05003525526537738
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "J_Sec_Hair3_05",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_05/J_Sec_Hair2_05/J_Sec_Hair3_05",
+                                                                            "pos": {
+                                                                                "x": 0.0664497953849745,
+                                                                                "y": 1.5915787498339273,
+                                                                                "z": 0.05009045593881699
+                                                                            },
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "J_Sec_Hair1_06",
+                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_06",
+                                                            "pos": {
+                                                                "x": 0.0906579232356612,
+                                                                "y": 1.621044921723836,
+                                                                "z": 0.006957390737018489
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "name": "J_Sec_Hair2_06",
+                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_06/J_Sec_Hair2_06",
+                                                                    "pos": {
+                                                                        "x": 0.08681339226299722,
+                                                                        "y": 1.5787244667070965,
+                                                                        "z": 0.014766190146957618
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "J_Sec_Hair3_06",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_06/J_Sec_Hair2_06/J_Sec_Hair3_06",
+                                                                            "pos": {
+                                                                                "x": 0.061053274140184056,
+                                                                                "y": 1.553499394247418,
+                                                                                "z": 0.0389759853467633
+                                                                            },
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "J_Sec_Hair1_07",
+                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_07",
+                                                            "pos": {
+                                                                "x": -0.08948854067605369,
+                                                                "y": 1.6143958614706146,
+                                                                "z": -0.016229962740250146
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "name": "J_Sec_Hair2_07",
+                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_07/J_Sec_Hair2_07",
+                                                                    "pos": {
+                                                                        "x": -0.07454929584785133,
+                                                                        "y": 1.5689938384235558,
+                                                                        "z": -0.011165780803166526
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "J_Sec_Hair3_07",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_07/J_Sec_Hair2_07/J_Sec_Hair3_07",
+                                                                            "pos": {
+                                                                                "x": -0.05982400982530599,
+                                                                                "y": 1.5235032675650597,
+                                                                                "z": -0.006168925717453238
+                                                                            },
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "J_Sec_Hair1_08",
+                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_08",
+                                                            "pos": {
+                                                                "x": 0.08657490461179487,
+                                                                "y": 1.610335160505886,
+                                                                "z": -0.015798117779448066
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "name": "J_Sec_Hair2_08",
+                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_08/J_Sec_Hair2_08",
+                                                                    "pos": {
+                                                                        "x": 0.07472839328727776,
+                                                                        "y": 1.5683234736656297,
+                                                                        "z": -0.01416251100783766
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "J_Sec_Hair3_08",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_08/J_Sec_Hair2_08/J_Sec_Hair3_08",
+                                                                            "pos": {
+                                                                                "x": 0.06365425659763672,
+                                                                                "y": 1.526105259583146,
+                                                                                "z": -0.012687176609291133
+                                                                            },
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "J_Sec_Hair1_09",
+                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_09",
+                                                            "pos": {
+                                                                "x": 0.0710144382220147,
+                                                                "y": 1.584954840044479,
+                                                                "z": -0.10735450063919945
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "name": "J_Sec_Hair2_09",
+                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_09/J_Sec_Hair2_09",
+                                                                    "pos": {
+                                                                        "x": 0.06873099213903008,
+                                                                        "y": 1.5336128838816918,
+                                                                        "z": -0.0980390619310949
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "J_Sec_Hair3_09",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_09/J_Sec_Hair2_09/J_Sec_Hair3_09",
+                                                                            "pos": {
+                                                                                "x": 0.05683567270780267,
+                                                                                "y": 1.4984739793704394,
+                                                                                "z": -0.05930120838377502
+                                                                            },
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "J_Sec_Hair1_10",
+                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_10",
+                                                            "pos": {
+                                                                "x": -0.0812857686219711,
+                                                                "y": 1.6188322988921555,
+                                                                "z": -0.10991198059448921
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "name": "J_Sec_Hair2_10",
+                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_10/J_Sec_Hair2_10",
+                                                                    "pos": {
+                                                                        "x": -0.07282453689706958,
+                                                                        "y": 1.56467128511278,
+                                                                        "z": -0.11025064879951978
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "J_Sec_Hair3_10",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_10/J_Sec_Hair2_10/J_Sec_Hair3_10",
+                                                                            "pos": {
+                                                                                "x": -0.0649778130520003,
+                                                                                "y": 1.510436856825378,
+                                                                                "z": -0.11131500157219151
+                                                                            },
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "J_Sec_Hair1_11",
+                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_11",
+                                                            "pos": {
+                                                                "x": -0.11450741205008878,
+                                                                "y": 1.6141082023121078,
+                                                                "z": -0.0453495536828131
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "name": "J_Sec_Hair2_11",
+                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_11/J_Sec_Hair2_11",
+                                                                    "pos": {
+                                                                        "x": -0.12610306252189696,
+                                                                        "y": 1.5525047540865333,
+                                                                        "z": -0.05153311189744988
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "J_Sec_Hair3_11",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_11/J_Sec_Hair2_11/J_Sec_Hair3_11",
+                                                                            "pos": {
+                                                                                "x": -0.09214660406068245,
+                                                                                "y": 1.5057842868764464,
+                                                                                "z": -0.039936465485477524
+                                                                            },
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "J_Sec_Hair1_12",
+                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_12",
+                                                            "pos": {
+                                                                "x": 0.10809731287763726,
+                                                                "y": 1.6130772160266331,
+                                                                "z": -0.07689398828434801
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "name": "J_Sec_Hair2_12",
+                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_12/J_Sec_Hair2_12",
+                                                                    "pos": {
+                                                                        "x": 0.12175814435955803,
+                                                                        "y": 1.548469383412707,
+                                                                        "z": -0.07467570489381165
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "J_Sec_Hair3_12",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_12/J_Sec_Hair2_12/J_Sec_Hair3_12",
+                                                                            "pos": {
+                                                                                "x": 0.09199207087560048,
+                                                                                "y": 1.5055100336305365,
+                                                                                "z": -0.03733417647491295
+                                                                            },
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "J_Sec_Hair1_13",
+                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_13",
+                                                            "pos": {
+                                                                "x": 0.00433006117518917,
+                                                                "y": 1.6091553694510845,
+                                                                "z": -0.16554833379766543
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "name": "J_Sec_Hair2_13",
+                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_13/J_Sec_Hair2_13",
+                                                                    "pos": {
+                                                                        "x": 0.00772399224562839,
+                                                                        "y": 1.5490070631620292,
+                                                                        "z": -0.17139170858668393
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "J_Sec_Hair3_13",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_13/J_Sec_Hair2_13/J_Sec_Hair3_13",
+                                                                            "pos": {
+                                                                                "x": 0.015283391277593358,
+                                                                                "y": 1.5045561700791998,
+                                                                                "z": -0.13231193126195956
+                                                                            },
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "J_Sec_Hair1_14",
+                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_14",
+                                                            "pos": {
+                                                                "x": -0.09520809838542263,
+                                                                "y": 1.6178988281574582,
+                                                                "z": 0.006398385578705125
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "name": "J_Sec_Hair2_14",
+                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_14/J_Sec_Hair2_14",
+                                                                    "pos": {
+                                                                        "x": -0.08471713727721546,
+                                                                        "y": 1.5806404458148475,
+                                                                        "z": 0.01585420150936203
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "J_Sec_Hair3_14",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_14/J_Sec_Hair2_14/J_Sec_Hair3_14",
+                                                                            "pos": {
+                                                                                "x": -0.06114411128454664,
+                                                                                "y": 1.5573860141171387,
+                                                                                "z": 0.037784802219152945
+                                                                            },
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "J_Sec_Hair1_15",
+                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_15",
+                                                            "pos": {
+                                                                "x": 0.0407831281003087,
+                                                                "y": 1.747250840042694,
+                                                                "z": 0.06449978133249396
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "name": "J_Sec_Hair2_15",
+                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_15/J_Sec_Hair2_15",
+                                                                    "pos": {
+                                                                        "x": 0.05274823427398755,
+                                                                        "y": 1.7156480714528175,
+                                                                        "z": 0.0712613789269875
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "J_Sec_Hair3_15",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_15/J_Sec_Hair2_15/J_Sec_Hair3_15",
+                                                                            "pos": {
+                                                                                "x": 0.06394757882204077,
+                                                                                "y": 1.6832651000911274,
+                                                                                "z": 0.07577900300647075
+                                                                            },
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "J_Sec_Hair1_16",
+                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_16",
+                                                            "pos": {
+                                                                "x": -0.07666216959764255,
+                                                                "y": 1.7390396824489853,
+                                                                "z": 0.042319263247049474
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "name": "J_Sec_Hair2_16",
+                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_16/J_Sec_Hair2_16",
+                                                                    "pos": {
+                                                                        "x": -0.0866948411436521,
+                                                                        "y": 1.7017281613954396,
+                                                                        "z": 0.053567410959451195
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "J_Sec_Hair3_16",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Neck/Head/J_Sec_Hair1_16/J_Sec_Hair2_16/J_Sec_Hair3_16",
+                                                                            "pos": {
+                                                                                "x": -0.08348637185675314,
+                                                                                "y": 1.6622966012491585,
+                                                                                "z": 0.06124262123148657
+                                                                            },
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Left shoulder",
+                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Left shoulder",
+                                            "pos": {
+                                                "x": 0.022579193651657926,
+                                                "y": 1.44618967638973,
+                                                "z": -0.027097672239727064
+                                            },
+                                            "children": [
+                                                {
+                                                    "name": "Left arm",
+                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Left shoulder/Left arm",
+                                                    "pos": {
+                                                        "x": 0.09644486415139489,
+                                                        "y": 1.435153341946066,
+                                                        "z": -0.027093162941768112
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "name": "Left elbow",
+                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow",
+                                                            "pos": {
+                                                                "x": 0.32912721697061487,
+                                                                "y": 1.4351657928360972,
+                                                                "z": -0.027087391404295624
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "name": "Left wrist",
+                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist",
+                                                                    "pos": {
+                                                                        "x": 0.5462040443820133,
+                                                                        "y": 1.435162295382928,
+                                                                        "z": -0.0266867245353643
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "IndexFinger1_L",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/IndexFinger1_L",
+                                                                            "pos": {
+                                                                                "x": 0.6121390029776607,
+                                                                                "y": 1.4429645141201681,
+                                                                                "z": -0.005919188956527301
+                                                                            },
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "IndexFinger2_L",
+                                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/IndexFinger1_L/IndexFinger2_L",
+                                                                                    "pos": {
+                                                                                        "x": 0.6456343041675853,
+                                                                                        "y": 1.4429699322250502,
+                                                                                        "z": -0.006602109943070569
+                                                                                    },
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "IndexFinger3_L",
+                                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/IndexFinger1_L/IndexFinger2_L/IndexFinger3_L",
+                                                                                            "pos": {
+                                                                                                "x": 0.6662359847015186,
+                                                                                                "y": 1.442345016464035,
+                                                                                                "z": -0.007435807966050922
+                                                                                            },
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "LittleFinger1_L",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/LittleFinger1_L",
+                                                                            "pos": {
+                                                                                "x": 0.6077239365852259,
+                                                                                "y": 1.4429537631045977,
+                                                                                "z": -0.057514620461011
+                                                                            },
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "LittleFinger2_L",
+                                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/LittleFinger1_L/LittleFinger2_L",
+                                                                                    "pos": {
+                                                                                        "x": 0.6393981169027253,
+                                                                                        "y": 1.4429801290499074,
+                                                                                        "z": -0.057514508913509524
+                                                                                    },
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "LittleFinger3_L",
+                                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/LittleFinger1_L/LittleFinger2_L/LittleFinger3_L",
+                                                                                            "pos": {
+                                                                                                "x": 0.6576464818700244,
+                                                                                                "y": 1.4429801290499984,
+                                                                                                "z": -0.05751449066485258
+                                                                                            },
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "MiddleFinger1_L",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/MiddleFinger1_L",
+                                                                            "pos": {
+                                                                                "x": 0.6130343288618,
+                                                                                "y": 1.4429539333751868,
+                                                                                "z": -0.024522615149937615
+                                                                            },
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "MiddleFinger2_L",
+                                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/MiddleFinger1_L/MiddleFinger2_L",
+                                                                                    "pos": {
+                                                                                        "x": 0.6503616858129124,
+                                                                                        "y": 1.4429802940157361,
+                                                                                        "z": -0.024521970068659228
+                                                                                    },
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "MiddleFinger3_L",
+                                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/MiddleFinger1_L/MiddleFinger2_L/MiddleFinger3_L",
+                                                                                            "pos": {
+                                                                                                "x": 0.6733821232012228,
+                                                                                                "y": 1.4429802940158514,
+                                                                                                "z": -0.024521947047853505
+                                                                                            },
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "RingFinger1_L",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/RingFinger1_L",
+                                                                            "pos": {
+                                                                                "x": 0.6122722878129518,
+                                                                                "y": 1.4429524070509416,
+                                                                                "z": -0.04104426923464104
+                                                                            },
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "RingFinger2_L",
+                                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/RingFinger1_L/RingFinger2_L",
+                                                                                    "pos": {
+                                                                                        "x": 0.6468956975364065,
+                                                                                        "y": 1.442978768397997,
+                                                                                        "z": -0.04104396687633017
+                                                                                    },
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "RingFinger3_L",
+                                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/RingFinger1_L/RingFinger2_L/RingFinger3_L",
+                                                                                            "pos": {
+                                                                                                "x": 0.6668719572277825,
+                                                                                                "y": 1.4429787683979967,
+                                                                                                "z": -0.0410439668763302
+                                                                                            },
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "Thumb0_L",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/Thumb0_L",
+                                                                            "pos": {
+                                                                                "x": 0.5497312857567641,
+                                                                                "y": 1.4245840023542542,
+                                                                                "z": -0.00981065300863225
+                                                                            },
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "Thumb1_L",
+                                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/Thumb0_L/Thumb1_L",
+                                                                                    "pos": {
+                                                                                        "x": 0.5853555243601206,
+                                                                                        "y": 1.4224166963619482,
+                                                                                        "z": 0.022168957915722882
+                                                                                    },
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "Thumb2_L",
+                                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Left shoulder/Left arm/Left elbow/Left wrist/Thumb0_L/Thumb1_L/Thumb2_L",
+                                                                                            "pos": {
+                                                                                                "x": 0.6080736441179105,
+                                                                                                "y": 1.421391162212465,
+                                                                                                "z": 0.04081944561801511
+                                                                                            },
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "Right shoulder",
+                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Right shoulder",
+                                            "pos": {
+                                                "x": -0.022575623244026805,
+                                                "y": 1.4461833318153186,
+                                                "z": -0.027145132521150094
+                                            },
+                                            "children": [
+                                                {
+                                                    "name": "Right arm",
+                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Right shoulder/Right arm",
+                                                    "pos": {
+                                                        "x": -0.09644441915026639,
+                                                        "y": 1.4351413107993962,
+                                                        "z": -0.027137427798096837
+                                                    },
+                                                    "children": [
+                                                        {
+                                                            "name": "Right elbow",
+                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow",
+                                                            "pos": {
+                                                                "x": -0.3291215428300006,
+                                                                "y": 1.4351531031703062,
+                                                                "z": -0.02713192701296058
+                                                            },
+                                                            "children": [
+                                                                {
+                                                                    "name": "Right wrist",
+                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist",
+                                                                    "pos": {
+                                                                        "x": -0.5461901900293555,
+                                                                        "y": 1.4351601436249743,
+                                                                        "z": -0.026736416094508993
+                                                                    },
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "IndexFinger1_R",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/IndexFinger1_R",
+                                                                            "pos": {
+                                                                                "x": -0.6121247234021275,
+                                                                                "y": 1.4429384252772823,
+                                                                                "z": -0.005963655194329117
+                                                                            },
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "IndexFinger2_R",
+                                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/IndexFinger1_R/IndexFinger2_R",
+                                                                                    "pos": {
+                                                                                        "x": -0.64562222517924,
+                                                                                        "y": 1.4429478303793046,
+                                                                                        "z": -0.006650186560605375
+                                                                                    },
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "IndexFinger3_R",
+                                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/IndexFinger1_R/IndexFinger2_R/IndexFinger3_R",
+                                                                                            "pos": {
+                                                                                                "x": -0.666222276965152,
+                                                                                                "y": 1.4423242401160992,
+                                                                                                "z": -0.007483820804569567
+                                                                                            },
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "LittleFinger1_R",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/LittleFinger1_R",
+                                                                            "pos": {
+                                                                                "x": -0.6077173583723973,
+                                                                                "y": 1.4429383403079035,
+                                                                                "z": -0.057561291968750254
+                                                                            },
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "LittleFinger2_R",
+                                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/LittleFinger1_R/LittleFinger2_R",
+                                                                                    "pos": {
+                                                                                        "x": -0.6393853724183457,
+                                                                                        "y": 1.4429529843015314,
+                                                                                        "z": -0.05756457408158598
+                                                                                    },
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "LittleFinger3_R",
+                                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/LittleFinger1_R/LittleFinger2_R/LittleFinger3_R",
+                                                                                            "pos": {
+                                                                                                "x": -0.6576322860071606,
+                                                                                                "y": 1.4429528200631754,
+                                                                                                "z": -0.057564537583537516
+                                                                                            },
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "MiddleFinger1_R",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/MiddleFinger1_R",
+                                                                            "pos": {
+                                                                                "x": -0.613027005749745,
+                                                                                "y": 1.442939630809111,
+                                                                                "z": -0.02457395567242509
+                                                                            },
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "MiddleFinger2_R",
+                                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/MiddleFinger1_R/MiddleFinger2_R",
+                                                                                    "pos": {
+                                                                                        "x": -0.6503479495517905,
+                                                                                        "y": 1.4429493955868284,
+                                                                                        "z": -0.024573065892885923
+                                                                                    },
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "MiddleFinger3_R",
+                                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/MiddleFinger1_R/MiddleFinger2_R/MiddleFinger3_R",
+                                                                                            "pos": {
+                                                                                                "x": -0.6733678344494657,
+                                                                                                "y": 1.4429491884184833,
+                                                                                                "z": -0.024572042882389615
+                                                                                            },
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "RingFinger1_R",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/RingFinger1_R",
+                                                                            "pos": {
+                                                                                "x": -0.6122654049056735,
+                                                                                "y": 1.4429394394141952,
+                                                                                "z": -0.04109471667408303
+                                                                            },
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "RingFinger2_R",
+                                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/RingFinger1_R/RingFinger2_R",
+                                                                                    "pos": {
+                                                                                        "x": -0.6468859668593645,
+                                                                                        "y": 1.442949228480982,
+                                                                                        "z": -0.0410949287078024
+                                                                                    },
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "RingFinger3_R",
+                                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/RingFinger1_R/RingFinger2_R/RingFinger3_R",
+                                                                                            "pos": {
+                                                                                                "x": -0.6668618669773474,
+                                                                                                "y": 1.4429490487206822,
+                                                                                                "z": -0.04109290875048401
+                                                                                            },
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "name": "Thumb0_R",
+                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/Thumb0_R",
+                                                                            "pos": {
+                                                                                "x": -0.5497552132007064,
+                                                                                "y": 1.4245716263862238,
+                                                                                "z": -0.00985334787609116
+                                                                            },
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "Thumb1_R",
+                                                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/Thumb0_R/Thumb1_R",
+                                                                                    "pos": {
+                                                                                        "x": -0.5853752468556156,
+                                                                                        "y": 1.4223982331933342,
+                                                                                        "z": 0.022123552839933888
+                                                                                    },
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "Thumb2_R",
+                                                                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Spine/Chest/Right shoulder/Right arm/Right elbow/Right wrist/Thumb0_R/Thumb1_R/Thumb2_R",
+                                                                                            "pos": {
+                                                                                                "x": -0.6080918542216835,
+                                                                                                "y": 1.421375801797434,
+                                                                                                "z": 0.040772129265301604
+                                                                                            },
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Left leg",
+                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Left leg",
+                            "pos": {
+                                "x": 0.07700865635929723,
+                                "y": 1.0042579169430013,
+                                "z": -0.0003091309022826462
+                            },
+                            "children": [
+                                {
+                                    "name": "Left knee",
+                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Left leg/Left knee",
+                                    "pos": {
+                                        "x": 0.07700264405163738,
+                                        "y": 0.584782738296598,
+                                        "z": -0.011618861289474602
+                                    },
+                                    "children": [
+                                        {
+                                            "name": "Left ankle",
+                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Left leg/Left knee/Left ankle",
+                                            "pos": {
+                                                "x": 0.07698953038867139,
+                                                "y": 0.10557951576393948,
+                                                "z": -0.03799192175984818
+                                            },
+                                            "children": [
+                                                {
+                                                    "name": "Left toe",
+                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Left leg/Left knee/Left ankle/Left toe",
+                                                    "pos": {
+                                                        "x": 0.07700327359243288,
+                                                        "y": 0.03937906308053937,
+                                                        "z": 0.06724532501602455
+                                                    },
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Right leg",
+                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Right leg",
+                            "pos": {
+                                "x": -0.07698576985769859,
+                                "y": 1.0042617738870787,
+                                "z": -0.0003082570910672911
+                            },
+                            "children": [
+                                {
+                                    "name": "Right knee",
+                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Right leg/Right knee",
+                                    "pos": {
+                                        "x": -0.07697171915494694,
+                                        "y": 0.58478618789418,
+                                        "z": -0.011617129102426703
+                                    },
+                                    "children": [
+                                        {
+                                            "name": "Right ankle",
+                                            "path": "scene_root/SceneNode-1/hana/Armature/Hips/Right leg/Right knee/Right ankle",
+                                            "pos": {
+                                                "x": -0.07698413476378434,
+                                                "y": 0.10558715482069525,
+                                                "z": -0.038001554945120516
+                                            },
+                                            "children": [
+                                                {
+                                                    "name": "Right toe",
+                                                    "path": "scene_root/SceneNode-1/hana/Armature/Hips/Right leg/Right knee/Right ankle/Right toe",
+                                                    "pos": {
+                                                        "x": -0.07697339539776471,
+                                                        "y": 0.03937998907897042,
+                                                        "z": 0.06724154464166744
+                                                    },
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
